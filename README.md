@@ -7,7 +7,7 @@
 
 ## 📝 PROJECT OVERVIEW
 The **CUSTOMER DUE TRACKER SYSTEM** is a complete solution for businesses to manage customer payments 💰, track outstanding dues 📋, and automate reminders ⏰. It provides a secure 🔒 and user-friendly platform where administrators can manage customer accounts 👤, monitor payments 💳, and send automated notifications 📧. Customers can log in to view their dues, make partial or full payments 💸, and access their payment history 📜. The system combines a Flask-based backend ⚙️ with a Streamlit-powered frontend dashboard 📈, ensuring smooth interaction, real-time tracking 🕒, and insightful analytics 🔍. With built-in authentication, activity logging 🗂️, and scheduling features 📅, this system helps businesses streamline payment management and improve customer communication effectively.
-
+ 
 ## 🚀 CORE FEATURES
 
 **Customer Management** 👥  
@@ -225,4 +225,5 @@ Customer_Due_Tracker_System/
 ## 📌 Developer Info
 Made with ❤️ by **ELITE CODERS** 👨‍💻
 © 2025 All rights reserved.
+
 
